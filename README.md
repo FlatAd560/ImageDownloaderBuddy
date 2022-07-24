@@ -1,6 +1,6 @@
 # downloaderbuddy
 # sources
-Hello and welcome, i learned and developed this program with https://www.youtube.com/watch?v=YDp73WjNISc , https://www.youtube.com/watch?v=Y0HN9tdLuJo and https://www.youtube.com/watch?v=OQydrlSzxnE and my past knowledge
+Hello and welcome, i learned and developed this program with https://www.youtube.com/watch?v=YDp73WjNISc , https://www.youtube.com/watch?v=Y0HN9tdLuJo and https://www.youtube.com/watch?v=OQydrlSzxnE and my past knowledge.
 # what this app do
 this app can download images that you're looking for automatically using microsoft's bing.
 # how to work with app
