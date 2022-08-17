@@ -5,7 +5,7 @@ i learned and developed this program with https://www.youtube.com/watch?v=YDp73W
 # how to dowload the app
 | System Software  | download link | code source |
 | ------------- | ------------- | ------------- |
-| Windows  | https://github.com/FlatAd560/downloaderbuddy/blob/main/downloaderbuddy%201.0.0.rar  | https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/sources/IDBwindows.py
+| Windows  | https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/Image%20Downloader%20Buddy%201.0.0.rar?raw=true  | https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/sources/IDBwindows.py
 | Android  | coming soon  | coming soon |
 | IOS  | coming soon  | coming soon |
 | Linux  | coming soon  | coming soon |
