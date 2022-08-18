@@ -10,6 +10,7 @@ i learned and developed this program with https://www.youtube.com/watch?v=YDp73W
 | IOS  | coming soon  | coming soon | coming soon | N/A |
 | Linux  | coming soon  | coming soon | coming soon | N/A |
 | MacOS  | coming soon  | coming soon | coming soon | N/A |
+| Site | coming soon  | coming soon | coming soon | N/A |
 # what this app do
 this app can download images that you're looking for, "automatically", using microsoft's bing. for more explanations, please see the table and find a user guide for the exact platform that you're looking for. the guides will be updates whenever the app gets an update too
 # security of this code
