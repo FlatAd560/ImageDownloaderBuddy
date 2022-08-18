@@ -1,4 +1,4 @@
-# downloaderbuddy for images
+# Image Downloader Buddy
 Hello and welcome, happy to see you here. in continue, we'll get to know about this project
 # sources
 i learned and developed this program with https://www.youtube.com/watch?v=YDp73WjNISc , https://www.youtube.com/watch?v=Y0HN9tdLuJo and https://www.youtube.com/watch?v=OQydrlSzxnE and my past knowledge.
