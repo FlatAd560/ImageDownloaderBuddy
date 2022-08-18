@@ -11,8 +11,8 @@ i learned and developed this program with https://www.youtube.com/watch?v=YDp73W
 | Linux  | coming soon  | coming soon | coming soon | N/A |
 | MacOS  | coming soon  | coming soon | coming soon | N/A |
 # what this app do
-this app can download images that you're looking for, "automatically", using microsoft's bing. for more explanations, please see the table and find a user guide for the exact platform that you're usuing
+this app can download images that you're looking for, "automatically", using microsoft's bing. for more explanations, please see the table and find a user guide for the exact platform that you're looking for. the guides will be updates whenever the app gets an update too
 # security of this code
 all of the programs that i shared here is open source and with this program, the connection is only between you and Bing servers.
 # pegi ans usage age
-the adult filter is turned on as you can see the "adult_filter_off=False" so adult filter will tured on
+the adult filter is turned on as you can see the "adult_filter_off=False" which means adult filter will tured on
