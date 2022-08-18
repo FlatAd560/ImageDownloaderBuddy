@@ -3,13 +3,13 @@ Hello and welcome, happy to see you here. in continue, we'll get to know about t
 # sources
 i learned and developed this program with https://www.youtube.com/watch?v=YDp73WjNISc , https://www.youtube.com/watch?v=Y0HN9tdLuJo and https://www.youtube.com/watch?v=OQydrlSzxnE and my past knowledge.
 # how to dowload the app
-| System Software  | download link | code source |
-| ------------- | ------------- | ------------- |
-| Windows  | https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/Image%20Downloader%20Buddy%201.0.0.rar?raw=true  | https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/sources/IDBwindows.py
-| Android  | coming soon  | coming soon |
-| IOS  | coming soon  | coming soon |
-| Linux  | coming soon  | coming soon |
-| MacOS  | coming soon  | coming soon |
+| System Software  | download link | code source | how to use | version
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Windows  | https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/Image%20Downloader%20Buddy%201.0.0.rar?raw=true  | https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/sources/IDBwindows.py | https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/HowToUseWindows.txt | 1.0.0
+| Android  | coming soon  | coming soon | coming soon | N/A | 
+| IOS  | coming soon  | coming soon | coming soon | N/A |
+| Linux  | coming soon  | coming soon | coming soon | N/A |
+| MacOS  | coming soon  | coming soon | coming soon | N/A |
 # what this app do
 this app can download images that you're looking for, "automatically", using microsoft's bing.
 # how to work with app
