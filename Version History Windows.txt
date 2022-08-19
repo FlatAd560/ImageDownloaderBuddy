@@ -1,0 +1,2 @@
+VERSION HISTORY FOR WINDOWS
+2.0.0 ==> Google added, so this code will use google and bing instead of only bing
