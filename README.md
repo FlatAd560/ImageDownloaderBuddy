@@ -15,7 +15,7 @@ i learned and developed this program with https://www.youtube.com/watch?v=YDp73W
 # what this app do
 this app can download images that you're looking for, "automatically", using microsoft's bing. for more explanations, please see the table and find a user guide for the exact platform that you're looking for. the guides will be updates whenever the app gets an update too
 # security of this code
-all of the programs that i shared here is open source and with this program, the connection is only between you and Bing servers.
+all of the programs that i shared here is open source and with this program, the connection is only between your device, Google and Bing servers.
 # pegi ans usage age
 Sadly, some parts of this video isn't developed by me, i just added an adult filter to it, but be more focused.
 # copyright terms
