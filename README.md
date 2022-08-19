@@ -1,3 +1,4 @@
+# Please read here
 # Image Downloader Buddy
 Hello and welcome, happy to see you here. in continue, we'll get to know about this project
 # sources
@@ -17,3 +18,5 @@ this app can download images that you're looking for, "automatically", using mic
 all of the programs that i shared here is open source and with this program, the connection is only between you and Bing servers.
 # pegi ans usage age
 the adult filter is turned on as you can see the "adult_filter_off=False" which means adult filter will tured on
+# copyright
+please use this service in the way that don't damage the copyright
