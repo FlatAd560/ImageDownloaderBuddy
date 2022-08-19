@@ -1,7 +1,7 @@
-after downloading, use winrar or etc. to extract the file to a folder names "imagedownloaderbuddy 1.0.0" . 
-then enter the folder and look for an app names "imagedownloaderbuddy.exe" with a red downward arrow, open it. 
+after downloading, use winrar or etc. to extract the file to a folder names "imagedownloaderbuddy 1.1.0" . 
+then enter the folder and look for an app names "imagedownloaderbuddy1.1.0.exe" with a red downward arrow, open it. 
 you will see a window. enter the thing that you're looking for in the white frame, then press enter. 
-then open folders and look for "imagedownloaderbuddy 1.0.0" folder again, enter and look for "downloads" folder. 
+then open folders and look for "imagedownloaderbuddy 1.1.0" folder again, enter and look for "downloads" folder. 
 after clicking that folder, you will find that images that you're looking for are saving automatically in a specific folder with that folder.
 as far as the limit of Google images are 100 if there's no problem with links, so it will get stops. go back and look for "data set" folder, the
 images will be continued to be saved there. for another research, you have to close the app (the app looks not responsing, but close it anyway),
