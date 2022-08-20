@@ -8,7 +8,7 @@ pip install git+https://github.com/Joeclinton1/google-images-download.git
 pip install kivy
 pip install pygame
 pip install bing-image-downloader
-5) copy the source code (https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/sources/IDBwindows.py) and
+5) copy the [source code](https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/sources/IDBwindows.py) and
 paste it in your python app (if you using default python programm, you have to create a new file first)
 6) run this code, if there's no problem ahead, please check the user guide
 (https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/UserGuideWindows.txt),
