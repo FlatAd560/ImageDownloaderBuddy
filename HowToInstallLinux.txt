@@ -4,7 +4,23 @@ python3.x --version
 2)install pip in your device with this command in terminal:
 sudo apt-get install python3-pip python-dev
 3)install git in your device with this command:
-sudo apt-get install git
+YOU CAN SEE OFFICIAL GIT SITE FROM https://git-scm.com/download/linux OR:
+Debian/Ubuntu ==> sudo apt-get install git
+For Ubuntu, this PPA provides the latest stable upstream Git version ==> add-apt-repository ppa:git-core/ppa or apt update; apt install git
+Fedora ==> yum install git (up to Fedora 21) and dnf install git (Fedora 22 and later)
+Gentoo ==> emerge --ask --verbose dev-vcs/git
+Arch Linux ==> pacman -S git
+openSUSE ==> zypper install git
+Mageia ==> urpmi git
+Nix/NixOS ==> nix-env -i git
+FreeBSD ==> pkg install git
+Solaris 9/10/11 (OpenCSW from https://www.opencsw.org/) ==> pkgutil -i git
+Solaris 11 Express ==> pkg install developer/versioning/git
+OpenBSD ==> pkg_add git
+Alpine ==> apk add git
+Red Hat Enterprise Linux, Oracle Linux, CentOS, Scientific Linux, et al.
+RHEL and derivatives typically ship older versions of git. You can download a tarball and build from source, or use a 3rd-party repository such as the IUS Community Project to obtain a more recent version of git.
+Slitaz ==> tazpkg get-install git
 4)type this commands there:
 pip install git+https://github.com/Joeclinton1/google-images-download.git
 pip install asyncore cProfile timeit tkinter bing-image-downloader
