@@ -1,4 +1,4 @@
-# please read here completely for easier download and better use
+# please read here completely for easier download and better usage
 # Image Downloader Buddy
 Hello and welcome, happy to see you here. in continue, we'll get to know about this project
 # sources
