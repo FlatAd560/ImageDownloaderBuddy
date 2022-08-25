@@ -1,0 +1,16 @@
+1)first, you have to install python files in your device.
+you have to run terminal, then type this code:
+python3.x --version
+2)install pip in your device with this command in terminal:
+sudo apt-get install python3-pip python-dev
+3)install git in your device with this command:
+sudo apt-get install git
+4)type this commands there:
+pip install git+https://github.com/Joeclinton1/google-images-download.git
+pip install asyncore cProfile timeit tkinter bing-image-downloader
+if you recieve an error maybe that file was ulready installed by you before or installed 
+by itself when you installed python. i put all of them for debarmenting from problems
+5) copy the code from source code to python app or something like Virtual Studio or etc.
+and run the programm. if it runs successfull, you can check user guide if you need to
+know about a code or if there's a problem with it, please check the past commands or tag
+a bug in github
