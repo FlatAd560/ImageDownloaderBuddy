@@ -28,5 +28,4 @@ if you recieve an error maybe that file was ulready installed by you before or i
 by itself when you installed python. i put all of them for debarmenting from problems
 5) copy the code from source code to python app or something like Virtual Studio or etc.
 and run the programm. if it runs successfull, you can check user guide if you need to
-know about a code or if there's a problem with it, please check the past commands or tag
-a bug in github
+know beeter (https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/UserGuideWindows.txt as same as windows) or if there's a problem with it, please check the past commands or tag a bug in github
