@@ -6,7 +6,7 @@ i learned and developed this program with https://www.youtube.com/watch?v=VkTrrq
 # how to dowload the app
 | System Software  | how to install | source code | user guide | version history
 |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
-| Windows  | [Click here](https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/HowToInstallWindows.txt)  | [Click Here](https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/sources/IDBwindows.py) | [Click Here](https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/UserGuideWindows.txt) | [2.0.0](https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/Version%20History%20Windows.txt)
+| Windows  | [Click here](https://github.com/amiraligpu/ImageDownloaderBuddy/blob/main/HowToInstallWindows.txt)  | [Click Here](https://github.com/amiraligpu/ImageDownloaderBuddy/blob/main/sources/IDBwindows.py) | [Click Here](https://github.com/amiraligpu/ImageDownloaderBuddy/blob/main/UserGuideWindows.txt) | [2.0.0](https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/Version%20History%20Windows.txt)
 | Linux  | [Click here](https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/HowToInstallLinux.txt)  | [Click here](https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/sources/IDBLinux.py) | [Click Here(like windows)](https://github.com/FlatAd560/ImageDownloaderBuddy/blob/main/UserGuideWindows.txt) | 1.0.0 |
 | Android  | coming soon  | coming soon | coming soon | N/A |
 | Site | coming soon  | coming soon | coming soon | N/A |
